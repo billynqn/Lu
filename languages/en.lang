@@ -94,7 +94,7 @@ handlerEvents.threadBanned=This group has been banned from using the bot\n» Rea
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.onlyAdminBot=🔖| 𝙊𝙉𝙇𝙔 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛\n\n 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰 🙂
 handlerEvents.commandNotFound=Command [%1] 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐃𝐎𝐄𝐒 𝐍𝐎 𝐄𝐗𝐈𝐒𝐓 %2𝙝𝙚𝙡𝙥\n_______________________\n 𝐡𝐞𝐥𝐩 𝐭𝐨 𝐬𝐞𝐞 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 𝐜𝐦𝐝'𝐬
-handlerEvents.commandNotFound2=🔖 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🔖\n____________________\n 𝙁𝘽:https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi \n______________________\n 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n______________________\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |.|
+handlerEvents.commandNotFound2= 🌹𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🌹 \n____________________\n  \n______________________\n fb link 👉🏼 https://www.facebook.com/profile.php?id=100084606198768🌹𝐑𝐨𝐧𝐚𝐥𝐝 𝐁𝐨𝐭 🌹 \n______________________\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |•|
 handlerEvents.commandSyntaxError= 𝙏𝙃𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿 𝙄𝙎 𝙎𝙔𝙉𝙏𝘼𝙓\n\n 𝙏𝙔𝙋𝙀 𝙝𝙚𝙡𝙥 + 𝙩𝙝𝙚 𝙣𝙖𝙢𝙚 𝙤𝙛 𝙘𝙢𝙙 𝙩𝙤 𝙨𝙚𝙚 \n_____________________\n 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼 🧛
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
