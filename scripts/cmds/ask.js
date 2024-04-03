@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n____________________\n 𝘾𝘼𝙉 𝙔𝙊𝙐 𝘼𝙎𝙆 𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉............?  ");
+        await message.reply("🌹 𝐑𝐨𝐧𝐚𝐥𝐝 𝐁𝐨𝐭 est toujours là pour répondre à vos questions 🌹📬");
         return;
       }
 
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
+    await message.reply({ body: `🌹𝐑𝐎𝐍𝐀𝐋𝐃🌹
 _______________________
 ${answer}
-𝘿𝙍𝘼𝘾𝙐𝙇𝘼 💢`,
+🌹𝐑𝐎𝐍𝐀𝐋𝐃🌹`,
 });
 
    } catch (error) {
