@@ -1,10 +1,10 @@
  const axios = require('axios');
 
 const Prefixes = [
-  '𝗥𝗼𝗻𝗮𝗹𝗱',
+  'Ronald',
   '.chi',
   'chi',
-  '𝗻𝗮𝗿𝘂𝘁𝗼,
+  'Naruto,
   '/chi',
 ];
 
