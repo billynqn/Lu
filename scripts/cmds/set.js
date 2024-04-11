@@ -18,9 +18,9 @@
   },
 
   onStart: async function ({ args, event, api, usersData }) {
-    const permission = ["100084606198768"];
+    const permission = [" 100093070855357"];
   if (!permission.includes(event.senderID)) {
-    api.sendMessage("seul mon maître 🌹𝐑𝐨𝐧𝐚𝐥𝐝 🌹 a le droit d'utiliser ce commande ❌ utilise le commande $slot pour gagner ton argent 💸", event.threadID, event.messageID);
+    api.sendMessage("seul mon maître 🌹billy 🌹 a le droit d'utiliser ce commande ❌ utilise le commande $slot pour gagner ton argent 💸", event.threadID, event.messageID);
     return;
   }
     const query = args[0];
